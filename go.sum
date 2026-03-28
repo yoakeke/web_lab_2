@@ -1,0 +1,12 @@
+github.com/MarkRosemaker/jsonutil v0.0.0-20250114201208-e81a63afd92c h1:udz3xOyJEKZHFzuHqpNnj8Z+tmSZ6BsjrF8YQAJrxAE=
+github.com/MarkRosemaker/jsonutil v0.0.0-20250114201208-e81a63afd92c/go.mod h1:oADYyP2jHXwC80qZwZaRr+3rIBnVNepyGzx/apEx67w=
+github.com/go-api-libs/api v0.0.0-20241220213325-f2e74c88e4c9 h1:dUnqp3lZGZs7oDymwbbUibRTSnuugiqqYaMhS3PMnlw=
+github.com/go-api-libs/api v0.0.0-20241220213325-f2e74c88e4c9/go.mod h1:fL72+M3mBE+eqDE13m+RakrxI4QdIcd44+onfW0SfPw=
+github.com/go-api-libs/remote-ok-jobs v0.0.0-20250119192439-021b49fec8a7 h1:iUN2PN971bXvA8YXIkTzs6EYjJIk04lq/sU+DyW5Ytc=
+github.com/go-api-libs/remote-ok-jobs v0.0.0-20250119192439-021b49fec8a7/go.mod h1:DXmrmMf6CyiNZbs7IzIcACq3OuIMmGypUFmR36hbuCA=
+github.com/go-json-experiment/json v0.0.0-20250119165339-d96285104214 h1:1dlB1X7A6QDvLxtJmzIEdtHTlWFrkfxrlRyb7VjZqQc=
+github.com/go-json-experiment/json v0.0.0-20250119165339-d96285104214/go.mod h1:BWmvoE1Xia34f3l/ibJweyhrT+aROb/FQ6d+37F0e2s=
+gopkg.in/dnaeon/go-vcr.v3 v3.2.0 h1:Rltp0Vf+Aq0u4rQXgmXgtgoRDStTnFN83cWgSGSoRzM=
+gopkg.in/dnaeon/go-vcr.v3 v3.2.0/go.mod h1:2IMOnnlx9I6u9x+YBsM3tAMx6AlOxnJ0pWxQAzZ79Ag=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
